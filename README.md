@@ -10,7 +10,7 @@ La arquitectura modular garantiza que cada desarrollador haya contribuido a una 
 
  Estructura del Equipo y Responsabilidades
 
-## 🧑‍💻 Integrantes
+##  Integrantes
 
 | Rol | Nombre | Archivo / Función |
 |-----|---------|------------------|
