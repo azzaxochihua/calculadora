@@ -1,6 +1,6 @@
-# Calculadora Básica con Tkinter 🧮
+# Calculadora Básica con Tkinter 
 
-Calculadora Básica con Tkinter 🧮
+Calculadora Básica con Tkinter 
 
  Objetivo del Proyecto
 
